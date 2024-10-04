@@ -1,0 +1,57 @@
+.logo{
+    width:200px;
+    height:200px;  
+}
+/* Parrafo*/
+p.vtr{
+    line-height: 1.5em; 
+    padding-bottom: 1em;
+    padding-left: 1em;
+    font-size: 22px;
+    font-size: x-large; 
+}
+h1{
+    color: #800000;
+}
+h2{
+    color: #800000;
+}
+img{
+    position: relative;
+    width:350px;
+    height:180px;  
+}
+figure{
+    margin-left: 15px;
+    overflow: hidden;
+}
+figure img{
+    margin-left: -6px;
+}
+#page{
+    width: 960px;
+    margin: 0 auto;
+    position: relative;
+}
+body{
+    background: linear-gradient(
+        217deg,
+        rgb(234, 173, 240),
+        rgba(247, 81, 197, 0) 70.71%
+      ),
+      linear-gradient(127deg, rgba(241, 209, 104, 0.8), rgba(0, 255, 0, 0) 70.71%),
+      linear-gradient(336deg, rgb(92, 238, 165), rgba(0, 0, 255, 0) 70.71%),
+      linear-gradient(456deg, rgb(240, 136, 188), rgba(12, 12, 12) 70.71%);
+}
+.copyright {
+    text-align: center; /* Centra el texto */
+    font-size: 14px; /* Tamaño de fuente */
+    margin-top: 20px; /* Margen superior */
+    color: #555; /* Color del texto */
+}
+
+.copyright span {
+    font-weight: bold; /* Negrita */
+}
+
+
